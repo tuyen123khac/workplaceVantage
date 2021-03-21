@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/ic_exit"
+        android:title="Log Out" />
+
+    <item
+        android:id="@+id/status"
+        android:icon="@drawable/ic_status"
+        android:title="Status">
+
+        <menu>
+
+            <item
+                android:id="@+id/availableStatus"
+                android:icon="@drawable/ic_online"
+                android:title="Available" />
+
+            <item
+                android:id="@+id/busyStatus"
+                android:icon="@drawable/ic_busy"
+                android:title="Busy" />
+
+            <item
+                android:id="@+id/awayStatus"
+                android:icon="@drawable/ic_away"
+                android:title="Away" />
+
+            <item
+                android:id="@+id/offlineStatus"
+                android:icon="@drawable/ic_offline"
+                android:title="Offline" />
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,50 @@
+<resources>
+    <!--Content provider-->
+    <string name="file_provider">com.tuyenvo.tmavantage.fileprovider</string>
+    <string name="bottom_image_picker_single">Choose an image</string>
+
+    <!--Login activity-->
+    <string name="app_name">Workplace Vantage</string>
+    <string name="back">Back</string>
+    <string name="welcome">Welcome!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="another_account">Another Account ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="empty_fields_error">Username &amp; Password must not be blank!</string>
+    <string name="login_successfully">User login successfully.</string>
+    <string name="wrong_username_password">Wrong Username or Password!</string>
+
+    <!--Sign up Activity-->
+    <string name="create_an_account">Create an account</string>
+    <string name="enter_username">Please enter Username.</string>
+    <string name="enter_password">Please enter Password.</string>
+    <string name="confirm_password">Please enter Confirm Password.</string>
+    <string name="confirm_password_is_wrong">Password &amp; confirm password must be the same.</string>
+    <string name="user_created_successfully">User was created successfully!</string>
+    <string name="error_cannot_create_user">Error, User could not be created!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="skip">Skip</string>
+
+
+    <string name="available_status">Available</string>
+    <string name="busy_status">Busy</string>
+    <string name="away_status">Away</string>
+    <string name="offline_status">Offline</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats">Chats</string>
+
+    <string-array name="gender">
+        <item>unknown</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="dashboard_profile_info_option">
+
+    </string-array>
+</resources>
